@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendApplication<hutechso1vn>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "hutechso1vn.backend.BackendApplication",
+            "projectName": "hutechso1vn",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
