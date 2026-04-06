@@ -102,7 +102,7 @@ function LoginRegisterPage() {
                 required
               />
               <Input
-                label="Mật khẩu"
+                label="Mật"
                 type="password"
                 value={loginForm.password}
                 onChange={(e) =>
